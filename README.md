@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gabriel 👋
 
-<!--
-**gabriellim314/gabriellim314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer and Electrical Engineering student at Poli-USP.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Electrical Engineering student at Poli-USP
+- 💼 Full Stack Developer
+- 📊 Experience with Python and data analysis
+- ⚡ Research in energy transition
+- 🌎 Interested in software engineering, machine learning and AI
+
+## 🛠️ Tech Stack
+
+Python • TypeScript • React • Node.js • PostgreSQL • Docker
+
+## 📌 Currently Working On
+
+- Building scalable web applications
+- Learning distributed systems and cloud technologies
+- Exploring applications of AI and data science in energy systems
+
+## 📫 Connect with Me
