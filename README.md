@@ -16,8 +16,9 @@ Python • TypeScript • React • Node.js • PostgreSQL • Docker
 
 ## 📌 Currently Working On
 
-- Building scalable web applications
+- Building scalable web applications for finance
 - Learning distributed systems and cloud technologies
-- Exploring applications of AI and data science in energy systems
 
 ## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/gabrielaugustodelima
