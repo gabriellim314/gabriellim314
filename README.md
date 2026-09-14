@@ -19,6 +19,10 @@ Python • TypeScript • React • Node.js • PostgreSQL • Docker
 - Building scalable web applications for finance
 - Learning distributed systems and cloud technologies
 
+### 🔥 My Work:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabriellim314)](https://git.io/streak-stats)
+
 ## 📫 Connect with Me
 
 - LinkedIn: www.linkedin.com/in/gabrielaugustodelima
