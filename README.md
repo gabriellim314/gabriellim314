@@ -21,7 +21,7 @@ Python • TypeScript • React • Node.js • PostgreSQL • Docker
 
 ### 🔥 My Work:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabriellim314&starting_year=2026)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabriellim314&starting_year=2024)](https://git.io/streak-stats)
 
 ## 📫 Connect with Me
 
